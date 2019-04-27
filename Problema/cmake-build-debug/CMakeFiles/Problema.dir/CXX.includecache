@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cristian/Desktop/POO/Problema/Carga.cpp
+Carga.h
+/home/cristian/Desktop/POO/Problema/Carga.h
+Simulador.h
+/home/cristian/Desktop/POO/Problema/Simulador.h
+
+/home/cristian/Desktop/POO/Problema/Carga.h
+math.h
+-
+Simulador.h
+/home/cristian/Desktop/POO/Problema/Simulador.h
+
+/home/cristian/Desktop/POO/Problema/Simulador.cpp
+Simulador.h
+/home/cristian/Desktop/POO/Problema/Simulador.h
+time.h
+/home/cristian/Desktop/POO/Problema/time.h
+stdlib.h
+-
+iostream
+-
+Carga.h
+/home/cristian/Desktop/POO/Problema/Carga.h
+
+/home/cristian/Desktop/POO/Problema/Simulador.h
+iostream
+-
+Carga.h
+/home/cristian/Desktop/POO/Problema/Carga.h
+
+/home/cristian/Desktop/POO/Problema/main.cpp
+iostream
+-
+Carga.h
+/home/cristian/Desktop/POO/Problema/Carga.h
+

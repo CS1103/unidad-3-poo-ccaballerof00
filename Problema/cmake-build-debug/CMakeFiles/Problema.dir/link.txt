@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Problema.dir/main.cpp.o CMakeFiles/Problema.dir/Carga.cpp.o CMakeFiles/Problema.dir/Simulador.cpp.o CMakeFiles/Problema.dir/test.cpp.o  -o Problema 
