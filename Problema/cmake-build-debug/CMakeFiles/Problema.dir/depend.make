@@ -13,5 +13,4 @@ CMakeFiles/Problema.dir/main.cpp.o: ../Carga.h
 CMakeFiles/Problema.dir/main.cpp.o: ../Simulador.h
 CMakeFiles/Problema.dir/main.cpp.o: ../main.cpp
 
-CMakeFiles/Problema.dir/test.cpp.o: ../test.cpp
 

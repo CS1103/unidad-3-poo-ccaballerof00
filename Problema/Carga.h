@@ -16,6 +16,7 @@ struct particulaCargada
     const double k=8.99*pow(10,9);
     particulaCargada(double carga,double posx,double posy): carga{carga},posx{posx},posy{posy},next{nullptr}{}
 };
+struct Punto;
 
 class Carga {
     particulaCargada* head;

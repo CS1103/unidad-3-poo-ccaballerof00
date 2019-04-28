@@ -1,4 +1,4 @@
-# Install script for directory: /home/cristian/Desktop/POO/Problema
+# Install script for directory: /home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/cristian/Desktop/POO/Problema/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

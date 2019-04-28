@@ -11,7 +11,7 @@ struct Punto{
     int py;
     Punto(int px,int py):px{px},py{py}{}
 };
-
+class Carga;
 class Simulador {
 int h;
 int w;

@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/cristian/Desktop/POO/Problema/cmake-build-debug"/>
+				<Option working_dir="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/cristian/Desktop/POO/Problema/cmake-build-debug"/>
+				<Option working_dir="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Problema">
-				<Option output="/home/cristian/Desktop/POO/Problema/cmake-build-debug/Problema" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/cristian/Desktop/POO/Problema/cmake-build-debug"/>
+				<Option output="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Problema" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problema"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problema"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Problema/fast">
-				<Option output="/home/cristian/Desktop/POO/Problema/cmake-build-debug/Problema" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/cristian/Desktop/POO/Problema/cmake-build-debug"/>
+				<Option output="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Problema" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,42 +67,42 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problema/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problema/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/cristian/Desktop/POO/Problema/cmake-build-debug"/>
+				<Option working_dir="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/cristian/Desktop/POO/Problema/Carga.cpp">
+		<Unit filename="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/Carga.cpp">
 			<Option target="Problema"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/POO/Problema/Carga.h">
+		<Unit filename="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/Carga.h">
 			<Option target="Problema"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/POO/Problema/Simulador.cpp">
+		<Unit filename="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/Simulador.cpp">
 			<Option target="Problema"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/POO/Problema/Simulador.h">
+		<Unit filename="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/Simulador.h">
 			<Option target="Problema"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/POO/Problema/main.cpp">
+		<Unit filename="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/main.cpp">
 			<Option target="Problema"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/POO/Problema/test.cpp">
+		<Unit filename="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/test.cpp">
 			<Option target="Problema"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/POO/Problema/CMakeLists.txt">
+		<Unit filename="/home/cristian/Desktop/POO/unidad-3-poo-ccaballerof00/Problema/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
